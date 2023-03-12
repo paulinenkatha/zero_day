@@ -5,9 +5,9 @@ This is my first repository as a full-stack engineer. In this project, I will be
 The goal of this project is to create a simple repository with a single file, `README.md`. The purpose of this file is to provide an introduction to the project, explain its purpose, and provide basic instructions on how to use it.
 
 ### Getting Started
-To get started with this project, you will need to have Git installed on your local machine . Once you have Git installed, you can clone the repository by running the command:
+To get started with this project, you will need to have Git installed on your local machine . Once you have Git installed, you can clone the repository by running the command
 
-~~~~~
+~~~~
 git clone <remote URL>
 ~~~~
 Replace `<remote URL>` with the URL of the remote repo on GitHub.
